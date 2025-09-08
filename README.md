@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramancodehub" alt="ramancodehub" /></a> </p>
 
-- 🔭 I’m currently working on **🔭 I’m currently working on building scalable web applications using .NET, React, and SQL. I focus on creating responsive UIs, integrating APIs, and optimizing performance for enterprise-grade solutions.**
+-  **🔭 I’m currently working on building scalable web applications using .NET, React, and SQL. I focus on creating responsive UIs, integrating APIs, and optimizing performance for enterprise-grade solutions.**
 
 - 🌱 I’m currently learning **Deepening my understanding of .NET Core, especially Entity Framework and Identity. Practicing GIT commands for better version control and collaboration**
 
